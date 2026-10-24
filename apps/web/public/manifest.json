@@ -1,0 +1,25 @@
+{
+  "name": "SchedulePro",
+  "short_name": "SchedulePro",
+  "description": "Discipline-driven productivity planner",
+  "theme_color": "#1e1b4b",
+  "background_color": "#0f0e17",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

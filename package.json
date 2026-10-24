@@ -1,0 +1,8 @@
+{
+  "name": "schedulepro-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}

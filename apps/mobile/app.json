@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "schedulepro-mobile",
+    "slug": "schedulepro-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.schedulepro.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d922770e-dc79-4d70-a3ab-70170468bc81"
+      }
+    },
+    "owner": "muritu"
+  }
+}
